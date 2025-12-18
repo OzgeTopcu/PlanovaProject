@@ -42,6 +42,12 @@ Uygulama React Native + Expo altyapısıyla geliştirilmiştir ve modern bir bac
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/c3cbf3a2-e5f8-4f15-95fb-5392ec09c5bc" />
 
 
+---
+
+## 📹 Uygulama Videosu
+
+
+
 ## 🏆 Oyunlaştırma Mantığı
 
 - Her tamamlanan alışkanlık → **puan**
