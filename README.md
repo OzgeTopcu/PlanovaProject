@@ -48,6 +48,10 @@ Uygulama React Native + Expo altyapısıyla geliştirilmiştir ve modern bir bac
 
 
 
+
+
+
+
 ## 🏆 Oyunlaştırma Mantığı
 
 - Her tamamlanan alışkanlık → **puan**
